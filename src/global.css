@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Helvetica ;
+}
+
+main{
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 20px;
+}
+
+.firstSection{
+    display: flex;
+    flex-direction: row;
+
+}
+.TextForm{
+    width: 80%;
+}
+.Form{
+    width: 80%;
+}
+
